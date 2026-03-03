@@ -143,10 +143,3 @@ audio_17,2.83
 | dataset/csvs/train.csv | Training data with labels |
 | dataset/csvs/test.csv | Test data (filenames only) |
 
-## Author
-
-Implementation for SHL Intern Hiring Assessment 2025
-
-## License
-
-MIT License
